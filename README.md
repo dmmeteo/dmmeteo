@@ -4,6 +4,11 @@ I am a Python developer with experience working on Django projects since 2016. I
 
 Feel free to check out my repositories to see some of my past projects and contributions. If you have any questions or are looking to collaborate on a project, don't hesitate to reach out! 💻
 
+###
+
+<img src="https://raw.githubusercontent.com/dmmeteo/dmmeteo/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **dmmeteo/dmmeteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
